@@ -1,9 +1,9 @@
 {
-  "name": "modelhostess",
+  "name": "cqrsflux",
   "author": "Michael Nakonechny",
   "version": "0.0.1",
-  "description": "ModelHostess",
-  "repository": "https://github.com/PhoboSys/modelhostess",
+  "description": "cqrsflux",
+  "repository": "https://github.com/mishadev/sqrsflux",
   "private": true,
   "main": "./bin/app.js",
   "dependencies": {
